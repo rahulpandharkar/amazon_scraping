@@ -4,8 +4,9 @@ A Python Utility for scraping Product Listings and Information from Amazon Websi
 
 Requirements: 
 1. Python (with pip)
-2. Requirement Modules (from respective requirements.txt file)
-3. Chrome Driver
+2. Requirement Modules (from respective requirements.txt files)
+3. Chrome Driver [from here](https://googlechromelabs.github.io/chrome-for-testing/)
+
 
 **Part I: Scraping by Search**
 
