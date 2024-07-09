@@ -1,0 +1,20 @@
+# requirements.txt
+
+# Selenium for web scraping
+selenium
+webdriver-manager
+
+# BeautifulSoup for HTML parsing
+beautifulsoup4
+
+# Pandas for data manipulation
+pandas
+
+# Pillow for image handling
+Pillow
+
+# OpenPyXL for Excel file operations
+openpyxl
+
+# Requests for HTTP requests
+requests

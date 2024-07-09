@@ -1,0 +1,14 @@
+# requirements.txt
+
+# Selenium for web scraping
+selenium
+webdriver-manager
+
+# OpenPyXL for Excel file operations
+openpyxl
+
+# Requests for HTTP requests
+requests
+
+# Tkinter for GUI development
+tk
