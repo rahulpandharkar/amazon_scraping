@@ -1,6 +1,6 @@
 **Web Scrapper for Amazon**
 
-A Python Utility for scraping Product Listings and Information from Amazon Website. 
+A Python Utility for scraping Product Listings and Information from Amazon Website into a well organized Excel Workbook
 
 Requirements: 
 1. Python (with pip)
